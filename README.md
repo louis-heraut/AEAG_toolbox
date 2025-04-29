@@ -1,11 +1,11 @@
 # AEAG_toolbox
 <!-- badges: start -->
 [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html)
-![](https://img.shields.io/github/last-commit/super-lou/AEAG_toolbox)
+![](https://img.shields.io/github/last-commit/louis-heraut/AEAG_toolbox)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
 <!-- badges: end -->
 
-**AEAG_toolbox** is a R toolbox based on [EXstat](https://github.com/super-lou/EXstat) and [CARD](https://github.com/super-lou/CARD) packages. Its main objective is to provide a simple way of interacting with all these codes to carry out hydrological stationnarity analysis for the Agence de l'Eau Adour-Garonne (AEAG).
+**AEAG_toolbox** is a R toolbox based on [EXstat](https://github.com/louis-heraut/EXstat) and [CARD](https://github.com/louis-heraut/CARD) packages. Its main objective is to provide a simple way of interacting with all these codes to carry out hydrological stationnarity analysis for the Agence de l'Eau Adour-Garonne (AEAG).
 
 This project was carried out for National Research Institute for Agriculture, Food and the Environment (Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement, [INRAE](https://agriculture.gouv.fr/inrae-linstitut-national-de-recherche-pour-lagriculture-lalimentation-et-lenvironnement) in french).
 
@@ -13,7 +13,7 @@ This project was carried out for National Research Institute for Agriculture, Fo
 ## Installation
 For latest development version
 ``` 
-git clone https://github.com/super-lou/AEAG_toolbox.git
+git clone https://github.com/louis-heraut/AEAG_toolbox.git
 ```
 
 
